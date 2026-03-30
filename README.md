@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Fatima 👩‍💻
 
-<!--
-**shescripts1/shescripts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> She debugs, she optimizes, she owns the stack.
 
-Here are some ideas to get you started:
+Self-taught developer from Algeria, currently studying CS and 
+building things on the side. Java is my first language and I'm 
+just getting started! every project here is proof of progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently
+- Learning Java (OOP, data structures)
+- Building my first projects from scratch
+- Pushing code to GitHub consistently
+
+## Coming soon
+- Python
+- Web development
+- Whatever interests me next
+
+---
+
+## Stack
+![Java](https://img.shields.io/badge/Java-learning-teal?style=flat)
+![Git](https://img.shields.io/badge/Git-getting%20there-purple?style=flat)
+
+---
+
+## Find me
+- Instagram: [@codeherimpact](https://www.instagram.com/codeher.impact)
+
+---
+
+"She didn't know it was impossible, so she did it."
